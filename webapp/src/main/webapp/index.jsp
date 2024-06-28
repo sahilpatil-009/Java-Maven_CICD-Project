@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Sevenmentor</title>
+    <title>CI/CD</title>
     <style>
       body {
         background-color: #f0f8ff; /* light blue */
