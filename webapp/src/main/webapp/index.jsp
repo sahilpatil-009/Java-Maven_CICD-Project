@@ -3,7 +3,7 @@
     <title>CI/CD</title>
     <style>
       body {
-        background-color: #FFD580; /* light blue */
+        background-color: #318CE7; /* light blue */
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -30,20 +30,10 @@
         list-style: none;
         padding: 0;
       }
-      li {
-        margin: 0.5em 0;
-      }
-      li::before {
-        content: "•";
-        color: #ff6347; /* tomato */
-        display: inline-block;
-        width: 1em;
-        margin-left: -1em;
-      }
     </style>
   </head>
   <body>
-    <h1>This Project is Deployed using Jenkins CI/CD Project</h1>
+    <h1>This Website is Deployed By using Jenkins CI/CD </h1>
     <h3>Technologies Used in this Project Are</h3>
     <h4>
       <ul>
