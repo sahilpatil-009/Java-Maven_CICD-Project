@@ -3,7 +3,7 @@
     <title>CI/CD</title>
     <style>
       body {
-        background-color: #f0f8ff; /* light blue */
+        background-color: #FFD580; /* light blue */
         display: flex;
         flex-direction: column;
         justify-content: center;
